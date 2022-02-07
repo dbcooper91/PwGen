@@ -17,7 +17,7 @@ public class PassGenerator extends JFrame implements ActionListener {
 
 	private static final int x_size = 320;
 	private static final int y_size = 320;
-
+//test
 	private static final String KLEIN = "KLEIN";
 	private static final String GROß = "GROß";
 	private static final String ZAHLEN = "ZAHLEN";
